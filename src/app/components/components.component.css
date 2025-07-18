@@ -1,0 +1,4 @@
+.page-header[filter-color=multimundo] {
+    background: rgba(44, 44, 44, .2);
+    background: linear-gradient(0deg, rgba(44, 44, 44, .2), #21727e);
+}
